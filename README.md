@@ -36,7 +36,64 @@ Building a freelance career in Data/AI Operations — specializing in AI data an
 I'm a Computer Science graduate passionate about building intelligent, practical AI systems — from computer vision pipelines to data-driven automation. I specialize in delivering high-quality **AI data annotation**, **prompt engineering**, and **Python development** work for clients navigating the fast-evolving AI landscape, backed by a strong foundation in **deep learning** and **research-driven problem solving**.
 
 ---
+### 🛠️ Tech Stack
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,streamlit,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 SLAM Navigation Robot
+Occupancy-grid SLAM with A* path planning and frontier exploration, tested on real OpenStreetMap data — 24/24 tests passing.
+
+`Python` `SLAM` `A* Search`
+
+[![Repo](https://img.shields.io/badge/View-Repo-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zohaibmahar234/slam-navigation-robot)
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 Multi-Modal Medical Diagnosis System
+PyTorch (ResNet50 + tabular fusion) model for chest X-ray pneumonia detection, deployed as a Streamlit app with Grad-CAM visualizations.
+
+`PyTorch` `Streamlit` `Grad-CAM`
+
+[![Repo](https://img.shields.io/badge/View-Repo-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zohaibmahar234/multimodal-medical-diagnosis)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 😴 DrowseGuard AI
+Real-time driver drowsiness detection using EAR, MAR & head-pose estimation, with audio alerts via OpenCV and pyttsx3.
+
+`Python` `OpenCV` `Computer Vision`
+
+[![Repo](https://img.shields.io/badge/View-Repo-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zohaibmahar234/-DrowseGuard-AI)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎥 Face Recognition Attendance System
+Real-time AI face recognition system that automatically marks attendance using a live webcam feed.
+
+`Python` `OpenCV` `Face Recognition`
+
+[![Repo](https://img.shields.io/badge/View-Repo-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zohaibmahar234/face-recognition-attendance)
+
+</td>
+</tr>
+</table>
+
+---
 ## 📊 GitHub Activity
 
 <div align="center">
