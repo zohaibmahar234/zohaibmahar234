@@ -1,3 +1,9 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zohaibmahar234/zohaibmahar234/main/dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zohaibmahar234/zohaibmahar234/main/light.svg">
+ <img alt="Zohaib Mahar" src="https://raw.githubusercontent.com/zohaibmahar234/zohaibmahar234/main/light.svg">
+</picture>
+
 <h1 align="center">Hi there 👋 — I'm Zohaib Mahar</h1>
 
 <p align="center">
