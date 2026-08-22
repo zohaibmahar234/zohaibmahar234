@@ -58,14 +58,72 @@ I'm a Computer Science graduate passionate about building intelligent, practical
 
 ## 📜 Certificates & Badges
 
-| # | Title | Issuer / Platform | Description | Credential |
-|:-:|---|---|---|:-:|
-| 1 | **Google Agile Essentials Specialization** | Google (Coursera) | Core principles of agile project management, including Scrum framework implementation, sprint planning, and backlog management. | [🔗 View](https://coursera.org/share/3ca2b629175e29a81ca63cec0dc395aa) |
-| 2 | **Google AI Professional Certificate** | Google (Coursera) | Practical, in-depth training on using AI tools for brainstorming, research, writing, data analysis, and building custom AI workflows. | [🔗 View](https://coursera.org/share/a39487144f175ed5ba3faa7c655ce667) |
-| 3 | **Google AI Essentials Specialization** | Google (Coursera) | Foundational knowledge of generative AI, prompting basics, and responsible AI usage to boost workplace productivity. | [🔗 View](https://coursera.org/share/dd6f8e7b96da1bbfde02f8952d908868) |
-| 4 | **Google Prompting Essentials Specialization** | Google (Coursera) | Advanced prompt engineering techniques for complex tasks, data analysis, presentations, and creative problem-solving. | [🔗 View](https://coursera.org/share/f55d7ad2e51ac85124913b3f28b686fa) |
-| 5 | **NASA Open Science Essentials** | NASA Open Science (Credly) | Fundamental concepts of open science practices, data-sharing frameworks, and transparent research workflows. | [🔗 View](https://www.credly.com/badges/d68ad6da-bd35-4ead-8fc9-e8c5c3d45a0e/public_url) |
-| 6 | **NASA Open Science 101** | NASA Open Science (Credly) | Certification in scientific collaboration, ethical data management, and applying open science tools to real-world research. | [🔗 View](https://www.credly.com/badges/6113afcf-4954-45aa-ac9d-2c967d4de945/public_url) |
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+🎓 **Google Agile Essentials**<br/>
+<sub>Google · Coursera</sub>
+
+<sub>Core principles of agile project management, Scrum framework, sprint planning & backlog management.</sub>
+
+[![View Credential](https://img.shields.io/badge/View-Credential-10B981?style=for-the-badge&logo=googlecloud&logoColor=white)](https://coursera.org/share/3ca2b629175e29a81ca63cec0dc395aa)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+🎓 **Google AI Professional**<br/>
+<sub>Google · Coursera</sub>
+
+<sub>Practical training on AI tools for research, writing, data analysis & custom AI workflows.</sub>
+
+[![View Credential](https://img.shields.io/badge/View-Credential-10B981?style=for-the-badge&logo=googlecloud&logoColor=white)](https://coursera.org/share/a39487144f175ed5ba3faa7c655ce667)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+🎓 **Google AI Essentials**<br/>
+<sub>Google · Coursera</sub>
+
+<sub>Foundations of generative AI, prompting basics & responsible AI usage.</sub>
+
+[![View Credential](https://img.shields.io/badge/View-Credential-10B981?style=for-the-badge&logo=googlecloud&logoColor=white)](https://coursera.org/share/dd6f8e7b96da1bbfde02f8952d908868)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+🎓 **Google Prompting Essentials**<br/>
+<sub>Google · Coursera</sub>
+
+<sub>Advanced prompt engineering for complex tasks, data analysis & problem-solving.</sub>
+
+[![View Credential](https://img.shields.io/badge/View-Credential-10B981?style=for-the-badge&logo=googlecloud&logoColor=white)](https://coursera.org/share/f55d7ad2e51ac85124913b3f28b686fa)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+🛰️ **NASA Open Science Essentials**<br/>
+<sub>NASA Open Science · Credly</sub>
+
+<sub>Open science practices, data-sharing frameworks & transparent research workflows.</sub>
+
+[![View Credential](https://img.shields.io/badge/View-Credential-22D3EE?style=for-the-badge&logo=nasa&logoColor=white)](https://www.credly.com/badges/d68ad6da-bd35-4ead-8fc9-e8c5c3d45a0e/public_url)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+🛰️ **NASA Open Science 101**<br/>
+<sub>NASA Open Science · Credly</sub>
+
+<sub>Scientific collaboration, ethical data management & open science tools.</sub>
+
+[![View Credential](https://img.shields.io/badge/View-Credential-22D3EE?style=for-the-badge&logo=nasa&logoColor=white)](https://www.credly.com/badges/6113afcf-4954-45aa-ac9d-2c967d4de945/public_url)
+
+</td>
+</tr>
+</table>
 
 ---
 
