@@ -182,8 +182,71 @@ Real-time AI face recognition system that automatically marks attendance using a
 </tr>
 </table>
 
----
+#### 🪟 Microsoft / Cloud
 
-<p align="center">
-💬 <i>Open to freelance projects, collaborations, and interesting AI problems — let's connect!</i>
-</p>
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+🪟 **M365 Core Services & Admin Controls**<br/>
+<sub>Microsoft Learn</sub>
+
+<sub>Foundations of Microsoft 365 core services and administrative controls.</sub>
+
+[![View Credential](https://img.shields.io/badge/View-Credential-38BDF8?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/zohaibmahar-2180/achievements)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+🪟 **M365 Security Foundations**<br/>
+<sub>Microsoft Learn</sub>
+
+<sub>Core security concepts and foundations within the Microsoft 365 ecosystem.</sub>
+
+[![View Credential](https://img.shields.io/badge/View-Credential-38BDF8?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/zohaibmahar-2180/achievements)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+🪟 **Protect & Govern M365 Data**<br/>
+<sub>Microsoft Learn</sub>
+
+<sub>Data protection, governance, and compliance controls in Microsoft 365.</sub>
+
+[![View Credential](https://img.shields.io/badge/View-Credential-38BDF8?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/zohaibmahar-2180/achievements)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+🪟 **Explore M365 Copilot & Agents**<br/>
+<sub>Microsoft Learn</sub>
+
+<sub>Overview of Microsoft 365 Copilot capabilities and Copilot agents.</sub>
+
+[![View Credential](https://img.shields.io/badge/View-Credential-38BDF8?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/zohaibmahar-2180/achievements)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+🪟 **M365 Copilot Admin Basics**<br/>
+<sub>Microsoft Learn</sub>
+
+<sub>Hands-on administration of Microsoft 365 Copilot for end users.</sub>
+
+[![View Credential](https://img.shields.io/badge/View-Credential-38BDF8?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/zohaibmahar-2180/achievements)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+🪟 **M365 Copilot Agents Admin Basics**<br/>
+<sub>Microsoft Learn</sub>
+
+<sub>Administrative tasks for configuring and managing Microsoft 365 Copilot agents.</sub>
+
+[![View Credential](https://img.shields.io/badge/View-Credential-38BDF8?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/zohaibmahar-2180/achievements)
+
+</td>
+</tr>
+</table>
